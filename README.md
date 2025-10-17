@@ -32,5 +32,18 @@ After all of this, I plan to get some other homework / interview skill assessmen
 
 QR Block 1: I finished reviewing the practice test. It seems I need to review equilateral triangle / iscoscoles triangle definitions as well as prepare better for data interpretation. I also need to refresh myself on probaility distributions / "n choose r" problems. I finished two videos of the quant series and chapters 1 and 2 in the QR book. I'll take a 35 minute break now since I ended 5 minutes earlier than I was expecting.
 
+QR Block 2: I ended up finishing chapters 3 and 4 as well (Algebra, Arithmetic). I figure it may be best to finish 5 and 6 before continuing on to the practice mixed sets, so that is what I will finish up doing today, as well as finishing some more GRE Ninja videos. Geometry and probability is where I need to study the most, everything else seems to be silly mindless mistakes I make :(. I ended up finishing this section about 10 minutes early.
+
+VR Block 1: From my learning, there are three types of questions on the GR Verbal section. There are 13 (48%) reading comprehension (RC) questions, 7 (26%) text completion (TC) questions, and 7 (26%) sentence equivalence (SE) problems. Here is the general strategy of these problems:
+
+TC: Analyze the sentence first. Think about the definition of every word and relate it back to the meaning of the sentence. Do two passes for each question and think about the definition for every question / word you do not know. Proceed by looking for words that definitely aren't right.
+
+SE: You must select two answers. Understand the sentence and look for clues in the sentence. Understand that pairings must exist and they must agree with the sentence itself. Proceed by looking for words that aren't right. Once again, do two full passes for every answer to make sure you aren't disregarding good answers.
+
+RC: There are two types of questions in the RC section: long and short. There are 6 (22%) long reading passage questions for 3 passages and 7 (26%) short reading passage questions.
+
+QR Block 3: Finished up Chapters 5 and 6 in the practice booklet. 
+
+VR Block 2:
 ---
 
