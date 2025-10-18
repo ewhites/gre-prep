@@ -11,6 +11,36 @@ I took the GRE Practice Test 1 in the Official Guide. My starting score is 162Q/
 
 ---
 
+# Big Picture Plan
+
+I plan to do the following things on each day:
+* Day 0: Diagnostic (take Practice Test 1)
+* Day 1: Review / Learn Strategies
+    * Review Practice Test
+    * Go through Chapters 1-6 in the QR Practice Questions Book
+    * Go through the GRE Verbal series online to learn strategy
+    * Build a base-level vocabulary list (50 words)
+ * Day 2:
+    * Chapter 7 Quantitative in Official
+    * Work through QR Sets 1-5 in QR Practice Questions Book
+    * Chapter 4 Verbal in Official
+    * Work through VR Sets 1-3 in Official
+    * Study vocabulary, add 50 more words
+ * Day 3:
+    * Work through QR Sets 1-5 in Official
+    * Work through VR Sets 4-5 in Official
+    * Study vocabulary, add 50 more words
+    * Take Practice Test 2 in Official
+ * Day 4:
+    * Review Practice Test 2
+    * Find earlier editions
+ * Day 5:
+ * Day 6:
+ * Day 7: Test Day
+     * Get a full nights rest and do excellently.
+
+---
+
 # Day 1
 
 Today, I have the following objectives:
@@ -40,10 +70,16 @@ TC: Analyze the sentence first. Think about the definition of every word and rel
 
 SE: You must select two answers. Understand the sentence and look for clues in the sentence. Understand that pairings must exist and they must agree with the sentence itself. Proceed by looking for words that aren't right. Once again, do two full passes for every answer to make sure you aren't disregarding good answers.
 
-RC: There are two types of questions in the RC section: long and short. There are 6 (22%) long reading passage questions for 3 passages and 7 (26%) short reading passage questions.
+RC: There are two types of questions in the RC section: long and short. There are 6 (22%) long reading passage questions for 3 passages and 7 (26%) short reading passage questions. For long questions, write a brief summary of each passage that gets at the "main idea" (a question always asked after the long passages). Understand what each paragraph of the long passages contains.
 
-QR Block 3: Finished up Chapters 5 and 6 in the practice booklet. 
+QR Block 3: Finished up Chapters 5 and 6 in the practice booklet. Watched another video.
 
 VR Block 2:
+
 ---
+
+# Day 2
+
+---
+
 
